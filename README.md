@@ -3,6 +3,10 @@
 Plays seven notes like a xylophone.
 This app uses [soundpool](https://developer.android.com/reference/android/media/SoundPool) to play the notes.
 
+Snapshots are below:
+
+<img src="https://raw.githubusercontent.com/shvmsaini/ProjectImages/master/Screenshot_1592723670.png?token=AHD4PEMZ7I5KSQXJNMAIF4C67BB6G" width="30%"></img>
+
 All the codes are based on java.
 
 I am working on Andoird Studio 4.0 Minimum SDK: API 21: Android 5.0 (Lollipop).DK: API 21: Android 5.0 (Lollipop).
