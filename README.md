@@ -5,7 +5,7 @@ This app uses [soundpool](https://developer.android.com/reference/android/media/
 
 Snapshots are below:
 
-<img src="https://raw.githubusercontent.com/shvmsaini/ProjectImages/master/Screenshot_1592723670.png?token=AHD4PEMZ7I5KSQXJNMAIF4C67BB6G" width="30%"></img>
+<img src="https://raw.githubusercontent.com/shvmsaini/ProjectImages/master/Screenshot_1592723670.png" width="30%"></img>
 
 All the codes are based on java.
 
